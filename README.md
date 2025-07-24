@@ -23,7 +23,7 @@ This project predicts stock prices using **Support Vector Regression (SVR)** and
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 ## 🏃‍♂️‍➡️Run the Streamlit app
-  streamlit run main.py
+     streamlit run main.py
   ---
   
 ## 🛅Requirements
